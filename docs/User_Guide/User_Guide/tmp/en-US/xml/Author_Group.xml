@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE authorgroup PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY BOOKID "User_Guide">
+<!ENTITY PRODUCT "Red Hat JBoss Developer Studio">
+<!ENTITY TITLE "User Guide">
+<!ENTITY YEAR "2013, 2014">
+<!ENTITY HOLDER "Red Hat, Inc">
+<!ENTITY BZPRODUCT "Red Hat JBoss Developer Studio">
+<!ENTITY BZCOMPONENT "documentation">
+<!ENTITY BZURL "<ulink url='https://bugzilla.redhat.com/enter_bug.cgi'>https://bugzilla.redhat.com/</ulink>">
+]>
+<authorgroup lang="en-US">
+	<author>
+		<firstname>Red Hat</firstname>
+		<surname>Documentation Team</surname>
+
+	</author>
+</authorgroup>
+

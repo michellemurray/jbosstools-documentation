@@ -1,0 +1,8 @@
+<plugin name="Red_Hat_JBoss_Developer_Studio User_Guide" id="org.Red_Hat_JBoss_Developer_Studio.User_Guide" version="1.0" provider-name="Publican-v4.0.0">
+  <extension point="org.eclipse.help.toc">
+    <toc file="toc.xml" primary="true"/>
+  </extension>
+  <extension point="org.eclipse.help.index">
+    <index file="index.xml"/>
+  </extension>
+</plugin>

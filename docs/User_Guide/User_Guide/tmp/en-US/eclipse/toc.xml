@@ -1,0 +1,201 @@
+<toc label="User Guide" topic="index.html">
+  <topic label="Preface" href="pref-User_Guide-Preface.html">
+    <topic label="Document Conventions" href="pref-User_Guide-Preface.html#idm210402042368">
+      <topic label="Typographic Conventions" href="pref-User_Guide-Preface.html#idm210402813152"/>
+      <topic label="Pull-quote Conventions" href="pref-User_Guide-Preface.html#idm210398444256"/>
+      <topic label="Notes and Warnings" href="pref-User_Guide-Preface.html#idm210401356896"/>
+    </topic>
+    <topic label="Getting Help and Giving Feedback" href="Getting_Help_and_Giving_Feedback2.html"/>
+  </topic>
+  <topic label="Introduction to Red Hat JBoss Developer Studio" href="chap-Introduction_to_Red_Hat_JBoss_Developer_Studio.html">
+    <topic label="About Red Hat JBoss Developer Studio" href="chap-Introduction_to_Red_Hat_JBoss_Developer_Studio.html#About_Red_Hat_JBoss_Developer_Studio"/>
+    <topic label="Use Cases of JBoss Developer Studio" href="Use_Cases_of_JBoss_Developer_Studio.html"/>
+  </topic>
+  <topic label="Tools for Every Project" href="part-Tools_for_Every_Project.html">
+    <topic label="JBoss Central and the JBoss Perspective" href="chap-JBoss_Central_and_the_JBoss_Perspective.html">
+      <topic label="Overview of JBoss Central and the JBoss Perspective" href="chap-JBoss_Central_and_the_JBoss_Perspective.html#sect-Overview_of_JBoss_Central_and_the_JBoss_Perspective">
+        <topic label="About JBoss Central" href="chap-JBoss_Central_and_the_JBoss_Perspective.html#About_JBoss_Central"/>
+        <topic label="About the JBoss Perspective" href="chap-JBoss_Central_and_the_JBoss_Perspective.html#About_the_JBoss_Perspective"/>
+      </topic>
+      <topic label="Features of JBoss Central and the JBoss Perspective" href="sect-Features_of_JBoss_Central_and_the_JBoss_Perspective.html">
+        <topic label="Features Overview" href="sect-Features_of_JBoss_Central_and_the_JBoss_Perspective.html#Features_Overview"/>
+        <topic label="View JBoss Central" href="sect-Features_of_JBoss_Central_and_the_JBoss_Perspective.html#View_JBoss_Central"/>
+        <topic label="Access Project Wizards in JBoss Central" href="sect-Features_of_JBoss_Central_and_the_JBoss_Perspective.html#Access_Project_Wizards_in_JBoss_Central"/>
+        <topic label="Access Information in JBoss Central" href="sect-Features_of_JBoss_Central_and_the_JBoss_Perspective.html#Access_Information_in_JBoss_Central"/>
+        <topic label="Install Software in JBoss Central" href="sect-Features_of_JBoss_Central_and_the_JBoss_Perspective.html#Install_Software_in_JBoss_Central"/>
+        <topic label="Open the JBoss Perspective" href="sect-Features_of_JBoss_Central_and_the_JBoss_Perspective.html#Open_the_JBoss_Perspective"/>
+        <topic label="Manage the JBoss Perspective" href="sect-Features_of_JBoss_Central_and_the_JBoss_Perspective.html#Manage_the_JBoss_Perspective"/>
+        <topic label="View Cheat Sheets" href="sect-Features_of_JBoss_Central_and_the_JBoss_Perspective.html#View_Cheat_Sheets"/>
+      </topic>
+      <topic label="Customizing JBoss Central and the JBoss Perspective" href="sect-Customizing_JBoss_Central_and_the_JBoss_Perspective.html">
+        <topic label="Customizing Overview" href="sect-Customizing_JBoss_Central_and_the_JBoss_Perspective.html#Customizing_Overview6"/>
+        <topic label="Change the Behavior of JBoss Central on IDE Start" href="sect-Customizing_JBoss_Central_and_the_JBoss_Perspective.html#Change_the_Behavior_of_JBoss_Central_on_IDE_Start"/>
+        <topic label="Customize the Default Views, Menus and Toolbars of the JBoss Perspective" href="sect-Customizing_JBoss_Central_and_the_JBoss_Perspective.html#Customize_the_Default_Views_Menus_and_Toolbars_of_the_JBoss_Perspective"/>
+        <topic label="Use Project Examples when Working Offline" href="sect-Customizing_JBoss_Central_and_the_JBoss_Perspective.html#Use_Project_Examples_when_Working_Offline"/>
+        <topic label="Install Software when Working Offline" href="sect-Customizing_JBoss_Central_and_the_JBoss_Perspective.html#Install_Software_when_Working_Offline"/>
+        <topic label="Set Cheat Sheet Behavior" href="sect-Customizing_JBoss_Central_and_the_JBoss_Perspective.html#Set_Cheat_Sheet_Behavior"/>
+      </topic>
+    </topic>
+    <topic label="JBoss Server Tools" href="chap-JBoss_Server_Tools.html">
+      <topic label="Overview of JBoss Server Tools" href="chap-JBoss_Server_Tools.html#sect-Overview_of_JBoss_Server_Tools">
+        <topic label="About JBoss Server Tools" href="chap-JBoss_Server_Tools.html#About_JBoss_Server_Tools"/>
+        <topic label="About IDE Server Definitions" href="chap-JBoss_Server_Tools.html#About_IDE_Server_Definitions"/>
+      </topic>
+      <topic label="Features of JBoss Server Tools" href="sect-Features_of_JBoss_Server_Tools.html">
+        <topic label="Features Overview" href="sect-Features_of_JBoss_Server_Tools.html#Features_Overview1"/>
+        <topic label="Create a Default Local Server Definition with Runtime Detection" href="sect-Features_of_JBoss_Server_Tools.html#Create_a_Default_Local_Server_Definition_with_Runtime_Detection"/>
+        <topic label="Create an Additional Server Runtime Environment" href="sect-Features_of_JBoss_Server_Tools.html#Create_an_Additional_Server_Runtime_Environment"/>
+        <topic label="Define an Additional Local Server" href="sect-Features_of_JBoss_Server_Tools.html#Define_an_Additional_Local_Server"/>
+        <topic label="Define a Remote Server" href="sect-Features_of_JBoss_Server_Tools.html#Define_a_Remote_Server"/>
+        <topic label="Manage Server Settings" href="sect-Features_of_JBoss_Server_Tools.html#sect-Manage_Server_Settings">
+          <topic label="Manage Server Settings in the Overview Tab" href="sect-Features_of_JBoss_Server_Tools.html#Manage_Server_Settings_in_the_Overview_Tab"/>
+          <topic label="Manage Server Settings in the Deployment Tab" href="sect-Features_of_JBoss_Server_Tools.html#Manage_Server_Settings_in_the_Deployment_Tab"/>
+        </topic>
+      </topic>
+      <topic label="Customizing JBoss Server Tools" href="sect-Customizing_JBoss_Server_Tools.html">
+        <topic label="Customizing Overview" href="sect-Customizing_JBoss_Server_Tools.html#Customizing_Overview1"/>
+        <topic label="Enable Runtime Detection on IDE Start" href="sect-Customizing_JBoss_Server_Tools.html#Enable_Runtime_Detection_on_IDE_Start"/>
+        <topic label="Set a Default Server" href="sect-Customizing_JBoss_Server_Tools.html#Set_a_Default_Server"/>
+        <topic label="Default File Sets" href="sect-Customizing_JBoss_Server_Tools.html#Default_File_Sets"/>
+        <topic label="Default Classpath Entries" href="sect-Customizing_JBoss_Server_Tools.html#Default_Classpath_Entries"/>
+      </topic>
+    </topic>
+    <topic label="Forge Tools" href="chap-Forge_Tools.html">
+      <topic label="Overview of Forge Tools" href="chap-Forge_Tools.html#sect-Overview_of_Forge_Tools">
+        <topic label="About Forge" href="chap-Forge_Tools.html#About_Forge"/>
+        <topic label="About Forge Tools" href="chap-Forge_Tools.html#About_Forge_Tools"/>
+      </topic>
+      <topic label="Features of Forge Tools" href="sect-Features_of_Forge_Tools.html">
+        <topic label="Features Overview" href="sect-Features_of_Forge_Tools.html#Features_Overview2"/>
+        <topic label="Manage the Forge Console" href="sect-Features_of_Forge_Tools.html#Manage_the_Forge_Console"/>
+        <topic label="Manage the Forge Runtime Server" href="sect-Features_of_Forge_Tools.html#Manage_the_Forge_Runtime_Server"/>
+        <topic label="Navigate to Project Resources on the Forge Command Line" href="sect-Features_of_Forge_Tools.html#Navigate_to_Project_Resources_on_the_Forge_Command_Line"/>
+        <topic label="Background Actions Invoked by Forge Commands" href="sect-Features_of_Forge_Tools.html#Background_Actions_Invoked_by_Forge_Commands"/>
+        <topic label="Access a List of Forge Commands" href="sect-Features_of_Forge_Tools.html#Access_a_List_of_Forge_Commands"/>
+        <topic label="Use Forge Wizards" href="sect-Features_of_Forge_Tools.html#Use_Forge_Wizards"/>
+      </topic>
+      <topic label="Customizing Forge Tools" href="sect-Customizing_Forge_Tools.html">
+        <topic label="Customizing Overview" href="sect-Customizing_Forge_Tools.html#Customizing_Overview2"/>
+        <topic label="Customize the Forge Start" href="sect-Customizing_Forge_Tools.html#Customize_the_Forge_Start"/>
+        <topic label="Manage Forge Runtime Servers" href="sect-Customizing_Forge_Tools.html#Manage_Forge_Runtime_Servers"/>
+      </topic>
+    </topic>
+  </topic>
+  <topic label="Tools for Creating Web Interfaces" href="part-Tools_for_Creating_Web_Interfaces.html">
+    <topic label="LiveReload Tools" href="chap-LiveReload_Tools.html">
+      <topic label="Overview of LiveReload Tools" href="chap-LiveReload_Tools.html#sect-Overview_of_LiveReload_Tools">
+        <topic label="About LiveReload" href="chap-LiveReload_Tools.html#About_LiveReload"/>
+        <topic label="About LiveReload Tools" href="chap-LiveReload_Tools.html#About_LiveReload_Tools"/>
+      </topic>
+      <topic label="Features of LiveReload Tools" href="sect-Features_of_LiveReload_Tools.html">
+        <topic label="Features Overview" href="sect-Features_of_LiveReload_Tools.html#Features_Overview3"/>
+        <topic label="Create a LiveReload Server" href="sect-Features_of_LiveReload_Tools.html#Create_a_LiveReload_Server"/>
+        <topic label="Configure the LiveReload Server" href="sect-Features_of_LiveReload_Tools.html#Configure_the_LiveReload_Server"/>
+        <topic label="View Resources in LiveReload-enabled Browsers" href="sect-Features_of_LiveReload_Tools.html#View_Resources_in_LiveReload-enabled_Browsers"/>
+        <topic label="View Resources in LiveReload-enabled BrowserSim" href="sect-Features_of_LiveReload_Tools.html#View_Resources_in_LiveReload-enabled_BrowserSim"/>
+      </topic>
+    </topic>
+  </topic>
+  <topic label="Tools for Creating Mobile Applications" href="part-Tools_for_Creating_Mobile_Applications.html">
+    <topic label="Mobile Web Tools" href="chap-Mobile_Web_Tools.html">
+      <topic label="Overview of Mobile Web Tools" href="chap-Mobile_Web_Tools.html#sect-Overview_of_Mobile_Web_Tools">
+        <topic label="About Mobile Web Tools" href="chap-Mobile_Web_Tools.html#About_Mobile_Web_Tools"/>
+      </topic>
+      <topic label="Features of Mobile Web Tools" href="sect-Features_of_Mobile_Web_Tools.html">
+        <topic label="Features Overview" href="sect-Features_of_Mobile_Web_Tools.html#Features_Overview4"/>
+        <topic label="Create a Mobile Web Project" href="sect-Features_of_Mobile_Web_Tools.html#Create_a_Mobile_Web_Project"/>
+        <topic label="Use a HTML5 jQuery Mobile File Template" href="sect-Features_of_Mobile_Web_Tools.html#Use_a_HTML5_jQuery_Mobile_File_Template"/>
+        <topic label="Access the jQuery Mobile Palette" href="sect-Features_of_Mobile_Web_Tools.html#Access_the_jQuery_Mobile_Palette"/>
+        <topic label="Insert a jQuery Mobile Palette Widget into a HTML5 File" href="sect-Features_of_Mobile_Web_Tools.html#Insert_a_jQuery_Mobile_Palette_Widget_into_a_HTML5_File"/>
+        <topic label="Get Assistance with jQuery Mobile Programming" href="sect-Features_of_Mobile_Web_Tools.html#Get_Assistance_with_jQuery_Mobile_Programming"/>
+        <topic label="View jQuery Mobile Pages in a Browser" href="sect-Features_of_Mobile_Web_Tools.html#View_jQuery_Mobile_Pages_in_a_Browser"/>
+      </topic>
+      <topic label="Customizing Mobile Web Tools" href="sect-Customizing_Mobile_Web_Tools.html">
+        <topic label="Customizing Overview" href="sect-Customizing_Mobile_Web_Tools.html#Customizing_Overview3"/>
+        <topic label="Customize jQuery Mobile File Templates" href="sect-Customizing_Mobile_Web_Tools.html#Customize_jQuery_Mobile_File_Templates"/>
+      </topic>
+    </topic>
+    <topic label="BrowserSim" href="chap-BrowserSim.html">
+      <topic label="Overview of BrowserSim" href="chap-BrowserSim.html#sect-Overview_of_BrowserSim">
+        <topic label="About BrowserSim" href="chap-BrowserSim.html#About_BrowserSim"/>
+        <topic label="System Requirements for BrowserSim" href="chap-BrowserSim.html#System_Requirements_for_BrowserSim"/>
+      </topic>
+      <topic label="Features of BrowserSim" href="sect-Features_of_BrowserSim.html">
+        <topic label="Features Overview" href="sect-Features_of_BrowserSim.html#Features_Overview5"/>
+        <topic label="View a Web Application on BrowserSim" href="sect-Features_of_BrowserSim.html#View_a_Web_Application_on_BrowserSim"/>
+        <topic label="Manage Web Applications on BrowserSim" href="sect-Features_of_BrowserSim.html#Manage_Web_Applications_on_BrowserSim"/>
+        <topic label="Change the Appearance of a Simulated Device" href="sect-Features_of_BrowserSim.html#Change_the_Appearance_of_a_Simulated_Device"/>
+        <topic label="View a Web Page in Different Browsers and Simulated Devices" href="sect-Features_of_BrowserSim.html#View_a_Web_Page_in_Different_Browsers_and_Simulated_Devices"/>
+        <topic label="Generate a Screen Capture of a Simulated Device" href="sect-Features_of_BrowserSim.html#Generate_a_Screen_Capture_of_a_Simulated_Device"/>
+        <topic label="Activate LiveReload for BrowserSim" href="sect-Features_of_BrowserSim.html#Activate_LiveReload_for_BrowserSim"/>
+        <topic label="View the Source of a Web Page" href="sect-Features_of_BrowserSim.html#View_the_Source_of_a_Web_Page"/>
+      </topic>
+      <topic label="Customizing BrowserSim" href="sect-Customizing_BrowserSim.html">
+        <topic label="Customizing Overview" href="sect-Customizing_BrowserSim.html#Customizing_Overview4"/>
+        <topic label="Make BrowserSim the Default Browser" href="sect-Customizing_BrowserSim.html#Make_BrowserSim_the_Default_Browser"/>
+        <topic label="Add BrowserSim to the Global Toolbar" href="sect-Customizing_BrowserSim.html#Add_BrowserSim_to_the_Global_Toolbar"/>
+        <topic label="Set a Shortcut for the Run BrowserSim Action" href="sect-Customizing_BrowserSim.html#Set_a_Shortcut_for_the_Run_BrowserSim_Action"/>
+        <topic label="Add or Modify Devices in BrowserSim" href="sect-Customizing_BrowserSim.html#Add_or_Modify_Devices_in_BrowserSim"/>
+        <topic label="Change the Default Behavior when a Device does not Fit the Display" href="sect-Customizing_BrowserSim.html#Change_the_Default_Behavior_when_a_Device_does_not_Fit_the_Display"/>
+        <topic label="Change the Default LiveReload Port" href="sect-Customizing_BrowserSim.html#Change_the_Default_LiveReload_Port"/>
+        <topic label="Set the Location for Saved Screen Captures" href="sect-Customizing_BrowserSim.html#Set_the_Location_for_Saved_Screen_Captures"/>
+        <topic label="Change the Default Settings for Weinre" href="sect-Customizing_BrowserSim.html#Change_the_Default_Settings_for_Weinre"/>
+      </topic>
+    </topic>
+    <topic label="Hybrid Mobile Tools and CordovaSim (Technology Preview)" href="chap-Hybrid_Mobile_Tools_and_CordovaSim_Technology_Preview.html">
+      <topic label="Technology Preview" href="chap-Hybrid_Mobile_Tools_and_CordovaSim_Technology_Preview.html#Technology_Preview"/>
+      <topic label="Overview of Hybrid Mobile Tools and CordovaSim" href="sect-Overview_of_Hybrid_Mobile_Tools_and_CordovaSim.html">
+        <topic label="About Apache Cordova" href="sect-Overview_of_Hybrid_Mobile_Tools_and_CordovaSim.html#About_Apache_Cordova"/>
+        <topic label="About Hybrid Mobile Tools" href="sect-Overview_of_Hybrid_Mobile_Tools_and_CordovaSim.html#About_Hybrid_Mobile_Tools"/>
+        <topic label="About CordovaSim" href="sect-Overview_of_Hybrid_Mobile_Tools_and_CordovaSim.html#About_CordovaSim"/>
+        <topic label="System Requirements for Hybrid Mobile Tools" href="sect-Overview_of_Hybrid_Mobile_Tools_and_CordovaSim.html#System_Requirements_for_Hybrid_Mobile_Tools"/>
+        <topic label="System Requirements for CordovaSim" href="sect-Overview_of_Hybrid_Mobile_Tools_and_CordovaSim.html#System_Requirements_for_CordovaSim"/>
+        <topic label="Install Hybrid Mobile Tools and CordovaSim" href="sect-Overview_of_Hybrid_Mobile_Tools_and_CordovaSim.html#Install_Hybrid_Mobile_Tools_and_CordovaSim"/>
+      </topic>
+      <topic label="Features of Hybrid Mobile Tools and CordovaSim" href="sect-Features_of_Hybrid_Mobile_Tools_and_CordovaSim.html">
+        <topic label="Features Overview" href="sect-Features_of_Hybrid_Mobile_Tools_and_CordovaSim.html#Features_Overview7"/>
+        <topic label="Create a Hybrid Mobile Project" href="sect-Features_of_Hybrid_Mobile_Tools_and_CordovaSim.html#Create_a_Hybrid_Mobile_Project"/>
+        <topic label="Enable Cordova Plug-ins for an Application" href="sect-Features_of_Hybrid_Mobile_Tools_and_CordovaSim.html#Enable_Cordova_Plug-ins_for_an_Application"/>
+        <topic label="Manage Cordova Settings of a Hybrid Mobile Project" href="sect-Features_of_Hybrid_Mobile_Tools_and_CordovaSim.html#sect-Manage_Cordova_Settings_of_a_Hybrid_Mobile_Project">
+          <topic label="Manage Cordova Settings in the Overview Tab" href="sect-Features_of_Hybrid_Mobile_Tools_and_CordovaSim.html#Manage_Cordova_Settings_in_the_Overview_Tab"/>
+          <topic label="Manage Cordova Settings in the Platform Properties Tab" href="sect-Features_of_Hybrid_Mobile_Tools_and_CordovaSim.html#Manage_Cordova_Settings_in_the_Platform_Properties_Tab"/>
+        </topic>
+        <topic label="Run a Hybrid Mobile Application on Devices and Simulators" href="sect-Features_of_Hybrid_Mobile_Tools_and_CordovaSim.html#Run_a_Hybrid_Mobile_Application_on_Devices_and_Simulators"/>
+        <topic label="Manage Hybrid Mobile Project Run Configurations" href="sect-Features_of_Hybrid_Mobile_Tools_and_CordovaSim.html#Manage_Hybrid_Mobile_Project_Run_Configurations"/>
+        <topic label="Export a Hybrid Mobile Project" href="sect-Features_of_Hybrid_Mobile_Tools_and_CordovaSim.html#Export_a_Hybrid_Mobile_Project"/>
+      </topic>
+      <topic label="Customizing Hybrid Mobile Tools and CordovaSim" href="sect-Customizing_Hybrid_Mobile_Tools_and_CordovaSim.html">
+        <topic label="Customizing Overview" href="sect-Customizing_Hybrid_Mobile_Tools_and_CordovaSim.html#Customizing_Overview7"/>
+        <topic label="Set the Android SDK Location" href="sect-Customizing_Hybrid_Mobile_Tools_and_CordovaSim.html#Set_the_Android_SDK_Location"/>
+      </topic>
+    </topic>
+  </topic>
+  <topic label="Tools for Deployment and Maintenance" href="part-Tools_for_Deployment_and_Maintenance.html">
+    <topic label="OpenShift Tools" href="chap-OpenShift_Tools.html">
+      <topic label="Overview of OpenShift Tools" href="chap-OpenShift_Tools.html#sect-Overview_of_OpenShift_Tools">
+        <topic label="About OpenShift" href="chap-OpenShift_Tools.html#About_OpenShift"/>
+        <topic label="About OpenShift Tools" href="chap-OpenShift_Tools.html#About_OpenShift_Tools"/>
+      </topic>
+      <topic label="Features of OpenShift Tools" href="sect-Features_of_OpenShift_Tools.html">
+        <topic label="Features Overview" href="sect-Features_of_OpenShift_Tools.html#Features_Overview6"/>
+        <topic label="Create an OpenShift Online User Account" href="sect-Features_of_OpenShift_Tools.html#Create_an_OpenShift_Online_User_Account"/>
+        <topic label="Connect to OpenShift" href="sect-Features_of_OpenShift_Tools.html#Connect_to_OpenShift"/>
+        <topic label="Manage a Connection" href="sect-Features_of_OpenShift_Tools.html#Manage_a_Connection"/>
+        <topic label="Generate and Upload SSH Keys to OpenShift" href="sect-Features_of_OpenShift_Tools.html#Generate_and_Upload_SSH_Keys_to_OpenShift"/>
+        <topic label="Manage SSH Keys" href="sect-Features_of_OpenShift_Tools.html#Manage_SSH_Keys"/>
+        <topic label="Create a Domain" href="sect-Features_of_OpenShift_Tools.html#Create_a_Domain1"/>
+        <topic label="Manage a Domain" href="sect-Features_of_OpenShift_Tools.html#Manage_a_Domain"/>
+        <topic label="Deploy a New or Existing Application on OpenShift" href="sect-Features_of_OpenShift_Tools.html#Deploy_a_New_or_Existing_Application_on_OpenShift"/>
+        <topic label="Import a Deployed OpenShift Application into the IDE" href="sect-Features_of_OpenShift_Tools.html#Import_a_Deployed_OpenShift_Application_into_the_IDE"/>
+        <topic label="Generate a Server Adapter for an Application" href="sect-Features_of_OpenShift_Tools.html#Generate_a_Server_Adapter_for_an_Application"/>
+        <topic label="View a Deployed Application and Associated Information" href="sect-Features_of_OpenShift_Tools.html#View_a_Deployed_Application_and_Associated_Information"/>
+        <topic label="Manage a Deployed Application" href="sect-Features_of_OpenShift_Tools.html#Manage_a_Deployed_Application"/>
+      </topic>
+      <topic label="Customizing OpenShift Tools" href="sect-Customizing_OpenShift_Tools.html">
+        <topic label="Customizing Overview" href="sect-Customizing_OpenShift_Tools.html#Customizing_Overview5"/>
+        <topic label="Change the Timeout Behavior of OpenShift Requests" href="sect-Customizing_OpenShift_Tools.html#Change_the_Timeout_Behavior_of_OpenShift_Requests"/>
+      </topic>
+    </topic>
+  </topic>
+  <topic label="Revision History" href="appe-User_Guide-Revision_History.html"/>
+</toc>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE preface PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY BOOKID "User_Guide">
+<!ENTITY PRODUCT "Red Hat JBoss Developer Studio">
+<!ENTITY TITLE "User Guide">
+<!ENTITY YEAR "2013, 2014">
+<!ENTITY HOLDER "Red Hat, Inc">
+<!ENTITY BZPRODUCT "Red Hat JBoss Developer Studio">
+<!ENTITY BZCOMPONENT "documentation">
+<!ENTITY BZURL "<ulink url='https://bugzilla.redhat.com/enter_bug.cgi'>https://bugzilla.redhat.com/</ulink>">
+]>
+<preface id="pref-User_Guide-Preface" lang="en-US">
+	<title>Preface</title>
+	 <xi:include href="Conventions.xml" xmlns:xi="http://www.w3.org/2001/XInclude"> <xi:fallback xmlns:xi="http://www.w3.org/2001/XInclude"> <xi:include href="Common_Content/Conventions.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 </xi:fallback>
+	 </xi:include>
+	 <xi:include href="Feedback.xml" xmlns:xi="http://www.w3.org/2001/XInclude"> <xi:fallback xmlns:xi="http://www.w3.org/2001/XInclude"> <xi:include href="Common_Content/Feedback.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 </xi:fallback>
+	 </xi:include>
+</preface>
+

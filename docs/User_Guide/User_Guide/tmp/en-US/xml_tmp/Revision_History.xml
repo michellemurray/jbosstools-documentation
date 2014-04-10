@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "User_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<appendix id="appe-User_Guide-Revision_History">
+	<title>Revision History</title>
+	<simpara>
+		<revhistory>
+			<revision>
+				<revnumber>7.1.1-1</revnumber><date>Thu Jan 09 2014</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							TOOLSDOC-441, TOOLSDOC-442: Typo fixed and system requirements clarified
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-12</revnumber><date>Tue Dec 10 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							Published for 7.1.0.GA
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-11</revnumber><date>Mon Dec 09 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							JBQA-8565: Hybrid Mobile Tools and CordovaSim feedback incorporated
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-10</revnumber><date>Thu Dec 05 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							JBQA-8676: General QE feedback incorporated
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-9</revnumber><date>Tue Dec 03 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							TOOLSDOC-417: Screen captures updated for IDE changes
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-8</revnumber><date>Fri Nov 29 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							TOOLSDOC-384: Technical review edits applied
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-7</revnumber><date>Tue Nov 19 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							TOOLSDOC-426: Installing JBoss Central plug-ins in offline mode added
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-6</revnumber><date>Fri Nov 15 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							TOOLSDOC-425: New and Noteworthy features documented
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-5</revnumber><date>Fri Nov 08 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							Publishing for Beta
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-4</revnumber><date>Thu Nov 07 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							TOOLSDOC-404: Hybrid Mobile Tools and CordovaSim chapter added
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-3</revnumber><date>Tue Nov 05 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							TOOLSDOC-414: Screen captures updated
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-2</revnumber><date>Tue Nov 05 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							TOOLSDOC-413: JIRA links added for bug reporting
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>7.1.0-1</revnumber><date>Wed Oct 09 2013</date>
+				<author>
+					<firstname>Michelle</firstname><surname>Murray</surname><email/>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>
+							First draft
+						</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</simpara>
+</appendix>
